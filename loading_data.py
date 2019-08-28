@@ -1,5 +1,5 @@
 """ This function will prepare the dataset to be ready for visualization.
-It takes as input the url to the data file and returns a cleaned Pandas dataframe """
+It takes as input the url of the most recent data file and returns a cleaned Pandas dataframe """
 
 
 def load_data(url):
